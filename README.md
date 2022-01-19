@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayata-0&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayata-0&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayata-0&theme=onedark&show_icons=ture" />
+</p>
 
 <!--
 **hayata-0/hayata-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
