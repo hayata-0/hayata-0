@@ -5,6 +5,9 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayata-0&theme=onedark&show_icons=ture" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hayata-0&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **hayata-0/hayata-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
