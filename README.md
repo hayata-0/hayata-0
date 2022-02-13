@@ -51,9 +51,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayata-0&theme=dracula&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![](https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 <!--
 **hayata-0/hayata-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
