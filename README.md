@@ -44,9 +44,10 @@
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayata-0&layout=compact&show_icons=true&theme=cobalt" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hayata-0&theme=cobalt&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/hayata-0/hayata-0/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
 </p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayata-0&theme=dracula&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
